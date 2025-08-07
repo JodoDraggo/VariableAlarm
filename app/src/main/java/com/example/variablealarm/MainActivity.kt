@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        val people = listOf("John", "Jack", "Luke", "Cave Johnson", "Graggle", "Luke", "Cave Johnson", "Greckle", "Luke", "Cave Johnson", "Greckle", "Luke", "Cave Johnson", "Greckle")
+        val people = listOf("John", "Jack", "Luke", "Cave Johnson", "Graggle", "Luke", "Cave Johnson", "Graggle Simpson", "Luke", "Cave Johnson", "Greckle", "Luke", "Cave Johnson", "Greckle")
 
         setContent {
             VariableAlarmTheme {
